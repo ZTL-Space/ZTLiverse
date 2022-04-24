@@ -4,4 +4,4 @@
 
 * Mit Nut für LED-Stripes und seitlichen Abdeckungen
 
-![Staender](Plexiglasstaender.jpg) ![StaenderMitBild](PlexiglasstaenderMitBild.jpg)
+![Staender](img/Plexiglasstaender.jpg) ![StaenderMitBild](img/PlexiglasstaenderMitBild.jpg)
