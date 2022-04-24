@@ -1,4 +1,4 @@
-**Halter für gefräste Plexigals-Platten**
+**Halter für gefräste Plexiglas-Platten**
 
 * geeignet für Material mit Breite 65mm und Stärke ca. 3.2mm
 
